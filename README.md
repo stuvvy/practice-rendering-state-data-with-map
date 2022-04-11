@@ -1,6 +1,11 @@
-# Practice ReactJS - Rendering state data using map
+# Practice ReactJS - [UPDATED] Rendering state data using map
 
 This code was built on ReactJS. I haven't messed around with the UI. This code is for practicing purpose only. 
+
+## What I changed
+
+You can see the original file on my repository.
+I added user location and picture, a button to load more new users, and a loading function.
 
 ### To Run this on your local environment
 
