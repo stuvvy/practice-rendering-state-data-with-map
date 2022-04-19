@@ -4,8 +4,8 @@ This code was built on ReactJS. I haven't messed around with the UI. This code i
 
 ## Technologies
 
-*Axios
-*Random API Generator
+- Axios
+- Random API Generator
 
 ### To Run this on your local environment
 
