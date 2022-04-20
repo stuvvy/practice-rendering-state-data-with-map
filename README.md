@@ -1,14 +1,13 @@
 # Practice ReactJS - Rendering state data using map
 
-This code was built on ReactJS. I haven't messed around with the UI. This code is for practicing purpose only. 
-
 ## Technologies
 
-- Axios
+- Axios [Axios](https://github.com/axios/axios)
 - Random API Generator
 
 ### To Run this on your local environment
 
+`npm install axios`
 `npm start`
 
 Runs the app in the development mode.
