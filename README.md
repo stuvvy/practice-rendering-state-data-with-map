@@ -2,7 +2,7 @@
 
 ## Technologies
 
-- Axios [Axios](https://github.com/axios/axios)
+- [Axios](https://github.com/axios/axios)
 - Random API Generator
 
 ### To Run this on your local environment
